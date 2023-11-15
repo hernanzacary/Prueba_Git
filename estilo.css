@@ -1,0 +1,39 @@
+body {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+}
+
+nav ul {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+}
+
+nav ul li a {
+    color: beige;
+    text-decoration-line: none;
+}
+
+#botellas {
+    width: 100%;
+    height: 35vh;
+}
+
+header {
+    border: 0;
+    margin: 0;
+    padding: 10px;
+    background-color: black;
+    color: rgb(205, 119, 14);
+    text-align: right;
+}
+
+td {
+    justify-content: center;
+}
