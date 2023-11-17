@@ -34,6 +34,6 @@ header {
     text-align: right;
 }
 
-td {
-    justify-content: center;
+.table {
+    text-align: center;
 }
